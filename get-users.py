@@ -121,9 +121,9 @@ def extract_users(driver, link):
 
 
 def main():
-    user_name = input("lifefacctss")
-    password = input("lifefacctss@#@#1999")
-    url = input("https://www.instagram.com/p/C3m8qzGPJLp/")
+    user_name ="lifefacctss"
+    password ="lifefacctss@#@#1999"
+    url ="https://www.instagram.com/p/C3m8qzGPJLp/"
 
     driver = webdriver.Edge(executable_path='msedgedriver.exe')
 
